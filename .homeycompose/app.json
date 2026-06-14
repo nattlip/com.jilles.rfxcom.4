@@ -1,7 +1,7 @@
 {
   "id": "com.jilles.rfxcom.4",
   "version": "3.0.0",
-  "compatibility": ">=12.4.0",
+  "compatibility": ">=5.0.0",
   "sdk": 3,
   "runtime": "nodejs",
   "platforms": [
@@ -19,6 +19,20 @@
     "lights",
     "appliances"
   ],
+
+"bugs": {
+    "url": "https://github.com/nattlip/com.jilles.rfxcom.2/issues"
+},
+
+ "contributing": {
+    "donate": {
+      "paypal": {
+        "username": "nattelip"
+      }
+    }
+  },
+
+
   "permissions": [],
   "images": {
     "small": "/assets/images/small.png",
