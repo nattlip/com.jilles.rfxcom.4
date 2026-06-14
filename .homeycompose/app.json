@@ -1,6 +1,6 @@
 {
   "id": "com.jilles.rfxcom.4",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "compatibility": ">=12.4.0",
   "sdk": 3,
   "runtime": "nodejs",
@@ -14,7 +14,10 @@
     "en": "Read and writes to Rfxcom devices"
   },
   "category": [
-    "lights"
+       "climate",
+    "security",
+    "lights",
+    "appliances"
   ],
   "permissions": [],
   "images": {
